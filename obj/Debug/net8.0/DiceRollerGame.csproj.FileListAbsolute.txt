@@ -1,0 +1,14 @@
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\bin\Debug\net8.0\DiceRollerGame.exe
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\bin\Debug\net8.0\DiceRollerGame.deps.json
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\bin\Debug\net8.0\DiceRollerGame.runtimeconfig.json
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\bin\Debug\net8.0\DiceRollerGame.dll
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\bin\Debug\net8.0\DiceRollerGame.pdb
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\obj\Debug\net8.0\DiceRollerGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\obj\Debug\net8.0\DiceRollerGame.AssemblyInfoInputs.cache
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\obj\Debug\net8.0\DiceRollerGame.AssemblyInfo.cs
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\obj\Debug\net8.0\DiceRollerGame.csproj.CoreCompileInputs.cache
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\obj\Debug\net8.0\DiceRollerGame.dll
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\obj\Debug\net8.0\refint\DiceRollerGame.dll
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\obj\Debug\net8.0\DiceRollerGame.pdb
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\obj\Debug\net8.0\DiceRollerGame.genruntimeconfig.cache
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\Debugger\DiceRollerGame\obj\Debug\net8.0\ref\DiceRollerGame.dll
